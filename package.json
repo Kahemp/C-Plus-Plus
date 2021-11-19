@@ -1,0 +1,1 @@
+yarn add @nrwl/nx-cloud && yarn nx g @nrwl/nx-cloud:init
